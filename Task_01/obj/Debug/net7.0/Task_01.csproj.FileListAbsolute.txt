@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\bin\Debug\net7.0\Task_01.exe
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\bin\Debug\net7.0\Task_01.deps.json
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\bin\Debug\net7.0\Task_01.runtimeconfig.json
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\bin\Debug\net7.0\Task_01.dll
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\bin\Debug\net7.0\Task_01.pdb
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfo.cs
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.dll
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\refint\Task_01.dll
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.pdb
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\Task_01.genruntimeconfig.cache
+C:\Users\PC\Desktop\FW\Final_work_for_the_first_quarter\Task_01\obj\Debug\net7.0\ref\Task_01.dll
